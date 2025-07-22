@@ -1,0 +1,48 @@
+[
+    {
+        "id": 1,
+        "disease": "Common Cold",
+        "description": "A mild viral infection affecting the upper respiratory tract.",
+        "image": "https://tse2.mm.bing.net/th?id=OIP.dDe3nPb9gB4Jj3mZvTU5vAHaEh&pid=Api&P=0&h=180",
+        "medicines": [
+            {
+                "id": 101,
+                "name": "Paracetamol",
+                "description": "effective fever and pain relief medication, providing relief for various discomforts",
+                "purchaseLink": "https://example.com/purchase_paracetamol"
+            },
+            {
+                "id": 102,
+                "name": "Cough Syrup",
+                "description": "Relieves cough symptoms associated with the common cold.",
+                "purchaseLink": "https://example.com/purchase_cough_syrup"
+            },
+            {
+                "id": 103,
+                "name": "Vitamin C",
+                "description": "Boosts the immune system to help fight infections.",
+                "purchaseLink": "https://example.com/purchase_vitamin_c"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "disease": "Allergies",
+        "description": "An immune system response to substances that are usually harmless.",
+        "image": "https://tse1.mm.bing.net/th?id=OIP.u0PHytveXyYDCctx7FqqhwHaFj&pid=Api&P=0&h=180",
+        "medicines": [
+            {
+                "id": 201,
+                "name": "Antihistamine",
+                "description": "Relieves symptoms like sneezing, itching, and runny nose.",
+                "purchaseLink": "https://example.com/purchase_antihistamine"
+            },
+            {
+                "id": 202,
+                "name": "Nasal Spray",
+                "description": "Reduces nasal congestion associated with allergies.",
+                "purchaseLink": "https://example.com/purchase_nasal_spray"
+            }
+        ]
+    }
+]
